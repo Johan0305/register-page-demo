@@ -1,0 +1,15 @@
+//abstracts
+@import "./styles/abstracts/mixins";
+@import "./styles/abstracts/variables";
+
+//base
+@import "./styles/base/base";
+@import "./styles/base/resets";
+
+//pages
+@import "./styles/pages/Landing.scss";
+
+//Components-Landing
+@import "./styles/components/Landing/Header.scss";
+@import "./styles/components/Landing/Main.scss";
+@import "./styles/components/Landing/Footer.scss";
